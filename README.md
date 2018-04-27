@@ -1,4 +1,4 @@
-# Elixir Koans
+# Elixir Koans (completed on 27 April 2018)
 
 [![Build Status](https://travis-ci.org/elixirkoans/elixir-koans.svg?branch=master)](https://travis-ci.org/elixirkoans/elixir-koans)
 
